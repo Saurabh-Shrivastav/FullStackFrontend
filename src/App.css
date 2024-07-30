@@ -1,4 +1,11 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+html,body{
+  background-color: #dac5c5;
+  font-family: 'Raleway', sans-serif;;
+}
+
+.App{
   text-align: center;
 }
 
